@@ -1,0 +1,16 @@
+D:\dev\.net\weather\bin\Debug\net5.0\weather.exe
+D:\dev\.net\weather\bin\Debug\net5.0\weather.deps.json
+D:\dev\.net\weather\bin\Debug\net5.0\weather.runtimeconfig.json
+D:\dev\.net\weather\bin\Debug\net5.0\weather.runtimeconfig.dev.json
+D:\dev\.net\weather\bin\Debug\net5.0\weather.dll
+D:\dev\.net\weather\bin\Debug\net5.0\ref\weather.dll
+D:\dev\.net\weather\bin\Debug\net5.0\weather.pdb
+D:\dev\.net\weather\obj\Debug\net5.0\weather.csproj.AssemblyReference.cache
+D:\dev\.net\weather\obj\Debug\net5.0\weather.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\.net\weather\obj\Debug\net5.0\weather.AssemblyInfoInputs.cache
+D:\dev\.net\weather\obj\Debug\net5.0\weather.AssemblyInfo.cs
+D:\dev\.net\weather\obj\Debug\net5.0\weather.csproj.CoreCompileInputs.cache
+D:\dev\.net\weather\obj\Debug\net5.0\weather.dll
+D:\dev\.net\weather\obj\Debug\net5.0\ref\weather.dll
+D:\dev\.net\weather\obj\Debug\net5.0\weather.pdb
+D:\dev\.net\weather\obj\Debug\net5.0\weather.genruntimeconfig.cache
